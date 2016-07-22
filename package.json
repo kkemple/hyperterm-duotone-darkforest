@@ -1,0 +1,23 @@
+{
+  "name": "hyperterm-duotone-darkforest",
+  "version": "0.1.0",
+  "description": "Duotone Dark Desert theme for Hyperterm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkemple/hyperterm-duotone-darkforest.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme"
+  ],
+  "author": "kurtiskemple@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kkemple/hyperterm-duotone-darkforest/issues"
+  },
+  "homepage": "https://github.com/kkemple/hyperterm-duotone-darkforest#readme"
+}
