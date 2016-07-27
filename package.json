@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-duotone-darkforest",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Duotone Dark Desert theme for Hyperterm",
   "main": "index.js",
   "scripts": {
